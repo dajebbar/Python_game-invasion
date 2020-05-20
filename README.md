@@ -4,4 +4,4 @@ Simple 2D game based on pygame.
 
 ![alien invasion game][alien-game]
 
-[alien-game]: python_game/aliens/images/shot.png
+[alien-game]: https://github.com/dajebbar/Python_game-invasion/blob/master/images/shot.png
